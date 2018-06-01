@@ -1,1 +1,1 @@
-# abass
+# Adele Bass's Typography Courses
