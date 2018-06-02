@@ -4,7 +4,6 @@ assist: Carson Chang
 assistemail: carson.chang@icloud.com
 description: >-
   Design Fundamentals 2, Expressive Type & Typography 1
-baseurl: ""
-
+baseurl: "/abass"
 markdown: kramdown
 theme: minima
