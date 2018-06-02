@@ -7,4 +7,3 @@ description: >-
 baseurl: "/abass"
 markdown: kramdown
 theme: minima
-relative_permalinks: true
