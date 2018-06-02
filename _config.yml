@@ -8,3 +8,4 @@ baseurl: "/abass"
 url: ""
 markdown: kramdown
 theme: minima
+relative_permalinks: true
