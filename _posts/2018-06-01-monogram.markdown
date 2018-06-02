@@ -17,7 +17,7 @@ letters of the alphabet. It is usually created by combining the initials of an i
 ### Schedule
 
 Week | Assignment
-- | -
+--- | ---
 1 | Research, [Project Info Sheet](/pdf/projectinfo.pdf), 100 Thumbnails
 2 | 3 Rough Comps
 3 | Final Comp
