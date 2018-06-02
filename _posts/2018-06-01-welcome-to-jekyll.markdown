@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Monogram"
+date: 2018-06-01 09:35:23 -0700
+categories: project
+---
+
+![monogram](https://i.imgur.com/G5uPZKx.png?1)
+
+### Objective
+Design a monogram for yourself using **two letters and a symbol** or **three letters**.
+
+### Background
+A monogram is a symbol made by overlapping or combining two or more
+letters of the alphabet. It is usually created by combining the initials of an individual or a company and used as a recognizable symbol or logo.
+
+### Schedule
+
+Week | Assignment
+- | -
+1 | Research, [Project Info Sheet](/pdf/projectinfo.pdf), 100 Thumbnails
+2 | 3 Rough Comps
+3 | Final Comp
+4 | Final Deliverables, Applications ([Rubber Stamp](https://www.rubberstampchamp.com/category/wood-hand-stamps/), Business Card)
+
+### Deliverables
+1. 2 Mounted Pieces (**1 Black & White**, **1 Color**)
+
+   Format: **7” x 7”** or **5” x 7”** flush mounted on foam core
+
+   **Write on the back**:
+
+   - Full Name
+
+   - Term (Ex. Fall 2018)
+
+   - Contact Info (Name or Phone #)
+
+2. Process Book
+
+3. Rubber Stamp
+
+4. Business Card
