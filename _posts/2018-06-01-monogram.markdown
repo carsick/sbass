@@ -1,8 +1,9 @@
 ---
+title: Monogram
+date: 2018-06-01 16:35:23 Z
+categories:
+- project
 layout: post
-title: "Monogram"
-date: 2018-06-01 09:35:23 -0700
-categories: project
 ---
 
 ![monogram](https://i.imgur.com/G5uPZKx.png?1)

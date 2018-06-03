@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Resources
-permalink: /resources/
+permalink: "/resources/"
+layout: page
 ---
 
 Ways to Set Up Inspiration

@@ -1,11 +1,19 @@
+---
 title: Adele Bass
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: abass@artcenter.edu
 assist: Carson Chang
 assistemail: carson.chang@icloud.com
-description: >-
-  Design Fundamentals 2, Expressive Type & Typography 1
+description: Design Fundamentals 2, Expressive Type & Typography 1
 baseurl: "/abass"
 markdown: kramdown
 theme: minima
-permalink: /:categories/:title:output_ext
+permalink: "/:categories/:title:output_ext"
 show_excerpts: true
