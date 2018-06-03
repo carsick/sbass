@@ -12,8 +12,7 @@ email: abass@artcenter.edu
 assist: Carson Chang
 assistemail: carson.chang@icloud.com
 description: Design Fundamentals 2, Expressive Type & Typography 1
-baseurl: "/abass"
 markdown: kramdown
 theme: minima
-permalink: "/:categories/:title:output_ext"
+permalink: "/:categories/:title"
 show_excerpts: true
