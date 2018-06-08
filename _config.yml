@@ -15,4 +15,3 @@ description: Design Fundamentals 2, Expressive Type & Typography 1
 markdown: kramdown
 theme: minima
 permalink: "/:categories/:title"
-show_excerpts: true

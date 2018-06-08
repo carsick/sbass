@@ -1,0 +1,58 @@
+---
+title: Poster
+date: 2018-06-08 01:11:00 Z
+categories:
+- project
+layout: post
+---
+
+![poster](https://i.imgur.com/SumYwN0.jpg)
+
+### Objective
+
+Research a subject that you are interested in and create a 11" x 17" poster to explain and summarize your presentation.
+
+### Background
+
+Learning how to organize information with a strong hierarchal sense will help you develop stronger communication skills essential throughout your career as a designer and artist who need to present their work well.
+
+**Criteria**:
+1. Clarity of message
+2. Interesting subject matter
+3. Well designed presentation showing a hierarchy of information
+
+Your presentation should have several levels of info and the hierarchy should be visible to the viewer:
+
+Element | Information
+--- | ---
+Title | Main heading, subject of information graphic
+Subtitle | Secondary explanation or specific definition under the main topic
+Body Copy | More detailed information describing the project or presentation. May include dates/times/contact information. For those interested parties, more targeted information to further explain topic.
+Graphics | Supporting explanatory abstract or photographic visual materials related to the concept or actual products
+Negative Space | Be mindful of white/negative space so information isn't cluttered. Use background to call attention to various points or have it create its own imagery ([figure–ground](https://en.wikipedia.org/wiki/Figure%E2%80%93ground_(perception)))
+Sign off | Signature or logo + copyright information or contact information
+
+### Schedule
+
+Week | Assignment
+--- | ---
+1 | Research, [Project Info Sheet](../pdf/projectinfo.pdf), 12 Thumbnails
+2 | 3 Rough Comps
+3 | Final Comp
+4 | Refine Final Comp
+5 | Final Presentation/Deliverables
+
+
+### Deliverables
+
+1. 1 Mounted Poster
+
+   Format: **11” x 17"** vertical (Flush mount on foam core.)
+
+   **Write on the back**:
+
+   * Full Name
+
+   * Term (Ex. Fall 2018)
+
+   * Contact Info (Name or Phone #)
