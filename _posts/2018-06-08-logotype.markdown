@@ -1,5 +1,5 @@
 ---
-title: Logo
+title: Logotype
 date: 2018-06-08 01:11:00 Z
 categories:
 - project
