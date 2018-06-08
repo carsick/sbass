@@ -1,11 +1,11 @@
 ---
-title: Logo Design
+title: Logo
 date: 2018-06-08 01:11:00 Z
 categories:
 - project
 ---
 
-![monogram](https://i.imgur.com/G5uPZKx.png?1)
+![logo](https://i.imgur.com/BkpLLW6.png)
 
 ### Objective
 Choose a company that needs a logo or has an existing logo that needs a redesign. You may also design a logo for yourself.
@@ -20,14 +20,13 @@ Choose which logo you are drawing. Draw a minimum of 50 thumbnails
 of the logo you plan to design and do thumbnails that are around 1”-3” in size.
 
 #Rough Comps
-Rough Comps: Take 3 thumbnails and draw up larger and with more detail (4”by 4”).
+Take 3 thumbnails and draw up larger and with more detail (4”by 4”). Draw with black and white shapes only.
+
 
 #Final Comp
-Draw with black and white shapes only.
+Draw and refine your logo larger (6”x 6”) with complete details. Draw only in black and white.
 
-Final Comp: Draw and refine your logo larger (6”x 6”) with complete details. Draw only in black and white.
-
-Experiment with color: minimum of 2 color design and a background color (optional)
+Experiment with color: minimum of 2 color design (optional: background color)
 
 ### Schedule
 
