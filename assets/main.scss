@@ -3,3 +3,7 @@
 
 @import "minima";
 img { max-height: 60vh; border: 1px solid $text-color; }
+
+h3 { border-bottom: 1px solid darken($grey-color-light, 12%); }
+
+.post-meta { display: none; }
