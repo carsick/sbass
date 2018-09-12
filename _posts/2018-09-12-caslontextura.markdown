@@ -7,17 +7,16 @@ date: 2018-09-12 21:34:00 Z
 
 ### Objective
 
-Draw 'hamburge' using Caslon.
-Each word must be a minimum of five letters.
+Draw 'Hamburge' (case-sensitive) using Caslon. Letter a quote using Textura blackletterr.
 
 ### Process
 
 1. Draw pencil guidelines on tracing paper.
 
 2. Practice drawing using the tissue overlay technique.
-   
 
-3. Refine each successive drawing.
+
+1. Refine each successive drawing.
 
    Draw a minimum of 3 tissues for each typeface before presenting final. Bring all supporting work on class. Hang only the final drawings.
 
