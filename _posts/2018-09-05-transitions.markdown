@@ -1,10 +1,10 @@
 ---
+title: Transitions
+date: 2018-09-05 17:24:59 Z
 layout: post
-title:  "Transitions"
-date:   2018-09-05 10:24:59 -0700
-image:  /img/transitions.jpg
-quote:  "Life is not having been told the man has just waxed the floor."
-quoteauthor: "Ogden Nash"
+image: "/img/transitions.jpg"
+quote: Life is not having been told the man has just waxed the floor.
+quoteauthor: Ogden Nash
 ---
 
 # Life transitions

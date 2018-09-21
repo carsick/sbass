@@ -1,10 +1,10 @@
 ---
+title: How I work
+date: 2018-09-03 17:24:59 Z
 layout: post
-title:  "How I work"
-date:   2018-09-03 10:24:59 -0700
-image:  /img/howiwork.jpg
-quote:  "Tell me, what is it you plan to do with your one wild and precious life?"
-quoteauthor: "Mary Oliver"
+image: "/img/howiwork.jpg"
+quote: Tell me, what is it you plan to do with your one wild and precious life?
+quoteauthor: Mary Oliver
 ---
 
 # How I work

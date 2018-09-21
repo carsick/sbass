@@ -1,10 +1,10 @@
 ---
+title: Payment
+date: 2018-09-10 17:24:59 Z
 layout: post
-title:  "Payment"
-date:   2018-09-10 10:24:59 -0700
-image:  /img/payment.jpg
-quote:  "Once we accept our limits, we go beyond them."
-quoteauthor: "Albert Einstein"
+image: "/img/payment.jpg"
+quote: Once we accept our limits, we go beyond them.
+quoteauthor: Albert Einstein
 ---
 
 # Payment

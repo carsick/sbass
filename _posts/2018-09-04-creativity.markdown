@@ -1,10 +1,10 @@
 ---
+title: Creativity
+date: 2018-09-04 17:24:59 Z
 layout: post
-title:  "Creativity"
-date:   2018-09-04 10:24:59 -0700
-image:  /img/creativity.jpg
-quote:  "All art is autobiographical. The pearl is the oyster's autobiography."
-quoteauthor: "Federico Fellini"
+image: "/img/creativity.jpg"
+quote: All art is autobiographical. The pearl is the oyster's autobiography.
+quoteauthor: Federico Fellini
 ---
 
 # Creativity & its discontents

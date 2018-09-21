@@ -1,10 +1,10 @@
 ---
+title: Contact
+date: 2018-09-11 17:24:59 Z
 layout: post
-title:  "Contact"
-date:   2018-09-11 10:24:59 -0700
-image:  /img/contact.jpg
-quote:  "A mind that is stretched by a new experience can never go back to its old dimensions."
-quoteauthor: "Oliver Wendell Holmes, Jr."
+image: "/img/contact.jpg"
+quote: A mind that is stretched by a new experience can never go back to its old dimensions.
+quoteauthor: Oliver Wendell Holmes, Jr.
 ---
 
 # Contact

@@ -1,10 +1,10 @@
 ---
+title: Trauma
+date: 2018-09-08 17:24:59 Z
 layout: post
-title:  "Trauma"
-date:   2018-09-08 10:24:59 -0700
-image:  /img/trauma.jpg
-quote:  "The world breaks everyone, and afterward, some are strong at the broken places"
-quoteauthor: "Ernest Hemingway"
+image: "/img/trauma.jpg"
+quote: The world breaks everyone, and afterward, some are strong at the broken places
+quoteauthor: Ernest Hemingway
 ---
 
 # Trauma

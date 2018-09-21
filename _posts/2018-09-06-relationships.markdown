@@ -1,10 +1,11 @@
 ---
+title: Relationships
+date: 2018-09-06 17:24:59 Z
 layout: post
-title:  "Relationships"
-date:   2018-09-06 10:24:59 -0700
-image:  /img/relationships.jpg
-quote:  "The meeting of two personalities is like the contact of two chemical substances; if there is any reaction, both are transformed."
-quoteauthor: "Carl Jung"
+image: "/img/relationships.jpg"
+quote: The meeting of two personalities is like the contact of two chemical substances;
+  if there is any reaction, both are transformed.
+quoteauthor: Carl Jung
 ---
 
 # Relationships

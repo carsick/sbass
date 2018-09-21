@@ -1,10 +1,10 @@
 ---
+title: Loss
+date: 2018-09-09 17:24:59 Z
 layout: post
-title:  "Loss"
-date:   2018-09-09 10:24:59 -0700
-image:  /img/loss.jpg
-quote:  "We learn geography the morning after the earthquake."
-quoteauthor: "Ralph Waldo Emerson"
+image: "/img/loss.jpg"
+quote: We learn geography the morning after the earthquake.
+quoteauthor: Ralph Waldo Emerson
 ---
 
 # Loss

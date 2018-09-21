@@ -1,10 +1,10 @@
 ---
+title: Divorce
+date: 2018-09-07 17:24:59 Z
 layout: post
-title:  "Divorce"
-date:   2018-09-07 10:24:59 -0700
-image:  /img/divorce.jpg
-quote:  "A man's errors are his portals of discovery."
-quoteauthor: "James Joyce"
+image: "/img/divorce.jpg"
+quote: A man's errors are his portals of discovery.
+quoteauthor: James Joyce
 ---
 
 # Divorce
