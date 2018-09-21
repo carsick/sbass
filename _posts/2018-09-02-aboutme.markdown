@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "About me"
+date:   2018-09-02 10:24:59 -0700
+image:  /img/aboutme.jpg
+quote:  "Be patient toward all that is unresolved in your heart and try to love the questions themselves, like locked rooms and like books that are now written in a very foreign tongue."
+quoteauthor: "Rainer Maria Rilker"
+---
+
+# About me
+
+I am a clinical psychologist with over 17 years of experience providing psychotherapy to adults, couples and adolescents. Prior to opening my private practice, I worked in various mental health settings, including USCF/Mt. Zion Hospital, California Pacific Medical Center, several community clinics and the Ann Martin Center, where I taught for many years as clinical faculty.
+
+In addition to my work as a psychotherapist, I write and give talks about psychology, creativity, and film, teach at the graduate level, run the clinical training program for psychologists at Rubicon Programs, Inc., supervise psychotherapy trainees at California College of the Arts (CCA), and have served on the editorial board of fort da, the journal of NCSPP, for the past 9 years. I have a creative background, and enjoy helping people to make new and unexpected connections that can energize change.

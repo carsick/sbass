@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+</head>
+
+<body>
+
+  <div data-tabs class="tabs">
+    {% for post in site.posts %}
+    <div class="tab">
+      <input type="radio" name="tabgroup" id="tab-{{ post.title }}" checked>
+      <label for="tab-{{ post.title }}" class='{{ post.title }}'>{{ post.title }}</label>
+      <div class="tab__content">
+        <div class='img'><img src='{{ post.image }}' /></div>
+        <table>
+          <tr>
+            <td class='quote'>
+              {{ post.quote }}
+              <div class='author'>{{ post.quoteauthor }}</div>
+            </td>
+            <td class='page'>
+              {{ post.content }}
+            </td>
+            <td class='right'>&nbsp;
+            </td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  {% endfor %}
+  </div>
+
+</body>
+
+</html>

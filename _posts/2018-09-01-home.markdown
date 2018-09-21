@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Home"
+date:   2018-09-01 10:24:59 -0700
+image:  /img/home.jpg
+quote:  "Life is the art of drawing without an eraser."
+quoteauthor: "John Gardner"
+---
+
+# Welcome
+
+You are one of a kind. No one experiences the world exactly as you do. So it is important to find a therapist you feel is capable of understanding your unique, lived experience so that together you can work towards change.
+
+I see the moment you enter my office as an opening into a more fulfilling life. Whatever brings you to therapy, whether the wish to overcome anxiety or depression, change repetitive relationship patterns, unblock creativity, or come to terms with a divorce or other seismic shift in circumstances, my hope is to create a trusting relationship in which we can work together to explore the inner forces that shape your experience and understand what is interfering with your satisfaction in life.
