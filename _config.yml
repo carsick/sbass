@@ -2,9 +2,6 @@
 title: Dr. Sharon Bass, Ph.D
 timezone: UTC
 collections:
-  entries:
-    title: Entries
-    output: true
   posts:
     title: Posts
     output: true
