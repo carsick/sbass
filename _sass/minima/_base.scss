@@ -62,7 +62,8 @@ h1 {
 }
 
 #tabs {
-  display: none;
+  opacity: 1;
+  transition: 1s opacity;
   clear: both;
   position: relative;
   max-width: $content-width;
