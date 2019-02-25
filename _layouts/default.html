@@ -12,7 +12,7 @@
 
 <body>
 
-  <div data-tabs id="tabs">
+  <div data-tabs id="tabs" class="loaded">
     {% for post in site.posts %}
     <div class="tab">
       <input type="radio" name="tabgroup" id="tab-{{ post.title }}" checked>
@@ -38,7 +38,7 @@
   </div>
   <script>
     $(document).ready(function() {
-      $('#tabs').fadeIn();
+      $('#tabs').removeClass('loaded');
     });
   </script>
 </body>
