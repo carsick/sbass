@@ -7,11 +7,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ site.title }}</title>
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 </head>
 
 <body>
 
-  <div data-tabs class="tabs">
+  <div data-tabs id="tabs">
     {% for post in site.posts %}
     <div class="tab">
       <input type="radio" name="tabgroup" id="tab-{{ post.title }}" checked>
@@ -35,7 +36,11 @@
     </div>
   {% endfor %}
   </div>
-
+  <script>
+    $(document).ready(function() {
+      $('#tabs').fadeIn();
+    });
+  </script>
 </body>
 
 </html>
